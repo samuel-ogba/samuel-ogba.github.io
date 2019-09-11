@@ -31,3 +31,12 @@ color: white;
   width: auto;
   height:100%;
 }
+@@media (max-width: 767px) {
+  #video {
+    display: none;
+  }
+  body {
+       background: url('screenshot1.png');
+       background-size: cover;
+  }
+}
