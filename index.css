@@ -3,7 +3,11 @@
   position:fixed;
   right: 0;
   bottom: 0;
+<<<<<<< HEAD
   max-width: 1200%;
+=======
+  max-width: 1000%;
+>>>>>>> 8de4cae4319f29865be95e265f95b1686bdf2696
   height: 100%;
   z-index: -1;
 }
