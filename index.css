@@ -1,4 +1,12 @@
+h6 {
+font-family: arial;
+color: grey;
+}
 
+.nav-link {
+font-family: Copperplate;
+color: white;
+}
 
 h1 {
 font-family: Copperplate;
