@@ -5,11 +5,12 @@ color: grey;
 
 .nav-link {
 font-family: Copperplate;
+text-transform: lowercase;
 color: white;
 }
 
 h1 {
-font-family: Copperplate;
+font-family: CloseRace;
 color: white;
 }
 #video {
