@@ -8,9 +8,10 @@ h1 {
 font-family: CloseRace;
 color: white;
 }
-
-.btn btn-lg btn-secondary {
-  background: blue;
+.btn {
+  color: black;
+  background: transparent;
+  border: 2px solid white;
 }
 #video {
   position:fixed;
