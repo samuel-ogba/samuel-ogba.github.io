@@ -5,8 +5,9 @@ color: white;
 }
 
 h1 {
-font-family: CloseRace;
-color: white;
+font-family: 'Frank Ruhl Libre', serif;
+color: #ECF0F1;
+font-size: 50px;
 }
 .btn {
   color: black;
